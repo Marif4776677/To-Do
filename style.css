@@ -43,6 +43,5 @@ a:hover {
   padding: 10px;
   margin: 10px 50px;
   max-width: 150px;
-  height: -moz-fit-content;
-  height: fit-content;
+  overflow-wrap: break-word;
 }/*# sourceMappingURL=style.css.map */
