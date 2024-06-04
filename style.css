@@ -43,4 +43,6 @@ a:hover {
   padding: 10px;
   margin: 10px 50px;
   max-width: 150px;
+  height: -moz-fit-content;
+  height: fit-content;
 }/*# sourceMappingURL=style.css.map */
